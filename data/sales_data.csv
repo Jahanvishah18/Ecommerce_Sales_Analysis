@@ -1,0 +1,25 @@
+Order_ID,Date,Customer_ID,Product,Category,Quantity,Unit_Price,City,Payment_Method
+1001,2026-01-05,C001,Laptop,Electronics,1,55000,Ahmedabad,UPI
+1002,2026-01-07,C002,Mouse,Electronics,2,800,Vadodara,Card
+1003,2026-01-10,C003,Office Chair,Furniture,1,7500,Surat,Cash
+1004,2026-01-12,C004,Keyboard,Electronics,1,1800,Ahmedabad,UPI
+1005,2026-01-15,C005,Notebook,Stationery,10,80,Vadodara,UPI
+1006,2026-01-18,C006,Desk,Furniture,1,9500,Rajkot,Card
+1007,2026-01-21,C007,Monitor,Electronics,1,14000,Surat,UPI
+1008,2026-01-25,C008,Pen,Stationery,20,30,Ahmedabad,Cash
+1009,2026-02-02,C009,Laptop,Electronics,1,62000,Vadodara,Card
+1010,2026-02-05,C010,Office Chair,Furniture,2,7200,Ahmedabad,UPI
+1011,2026-02-09,C011,Mouse,Electronics,3,750,Surat,UPI
+1012,2026-02-11,C012,Printer,Electronics,1,12500,Rajkot,Card
+1013,2026-02-15,C013,Notebook,Stationery,15,75,Vadodara,Cash
+1014,2026-02-18,C014,Desk,Furniture,1,10500,Ahmedabad,UPI
+1015,2026-02-22,C015,Keyboard,Electronics,2,1700,Surat,Card
+1016,2026-03-01,C016,Monitor,Electronics,2,13500,Vadodara,UPI
+1017,2026-03-04,C017,Pen,Stationery,30,25,Ahmedabad,Cash
+1018,2026-03-08,C018,Laptop,Electronics,1,58000,Rajkot,Card
+1019,2026-03-12,C019,Office Chair,Furniture,1,8000,Surat,UPI
+1020,2026-03-16,C020,Notebook,Stationery,12,85,Vadodara,UPI
+1021,2026-03-20,C001,Mouse,Electronics,2,850,Ahmedabad,Card
+1022,2026-03-23,C005,Desk,Furniture,1,9800,Vadodara,UPI
+1023,2026-03-27,C010,Printer,Electronics,1,11800,Surat,Card
+1024,2026-03-30,C015,Pen,Stationery,25,28,Ahmedabad,Cash
