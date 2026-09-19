@@ -107,17 +107,36 @@ No missing values or duplicate rows were found in the sample dataset.
 - Card payments generated ₹160,500 in recorded revenue.
 - The highest-revenue customer in the dataset generated ₹62,000.
 
+
 ## Visualizations
 
-The project includes visualizations for:
+### Monthly Revenue
 
-- Monthly Revenue
-- Revenue by Category
-- Revenue by City
-- Revenue by Payment Method
-- Revenue by Product
-- Top 5 Customers by Revenue
-- Best-Selling Products by Quantity
+![Monthly Revenue](outputs/monthly_revenue.png)
+
+### Revenue by Category
+
+![Revenue by Category](outputs/category_revenue.png)
+
+### Revenue by City
+
+![Revenue by City](outputs/city_revenue.png)
+
+### Revenue by Payment Method
+
+![Revenue by Payment Method](outputs/payment_revenue.png)
+
+### Revenue by Product
+
+![Revenue by Product](outputs/product_revenue.png)
+
+### Top 5 Customers by Revenue
+
+![Top 5 Customers by Revenue](outputs/top_customers_revenue.png)
+
+### Best-Selling Products by Quantity
+
+![Best-Selling Products by Quantity](outputs/best_selling_products.png)
 
 The generated charts are available in the `outputs` folder.
 
